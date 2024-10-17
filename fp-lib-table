@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "kim1-connectors")(type "KiCad")(uri "/home/walt/Desktop/RetroComputers/KIM-1/hw/kim1-connectors/kim1-connectors.pretty")(options "")(descr ""))
+)
