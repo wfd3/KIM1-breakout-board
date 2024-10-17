@@ -22,7 +22,7 @@ fp-info-cache
 *.ses
 
 # Gerber files
-gerbers/
+#gerbers/
 
 # Backups
 *-backups/
